@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ehsanrzi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://EhsanRzi.github.io/sitemap.xml
